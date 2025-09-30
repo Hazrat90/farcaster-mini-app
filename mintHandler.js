@@ -1,0 +1,1 @@
+// mintHandler.js content from textdoc
